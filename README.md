@@ -21,6 +21,7 @@
 - 👨‍🦯  Reachable under klacklmaximilian@gmail.com
 
 ---
-![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaximilianKlackl&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximilianKlackl)](https://github.com/MaximilianKlackl/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MaximilianKlackl&show_icons=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximilianKlackl"/>
+
 
