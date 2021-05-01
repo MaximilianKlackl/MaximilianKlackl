@@ -1,4 +1,3 @@
-### Languages and Tools
 ![alt text](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a "Java")
 ![alt text](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=2bbc8a "Javascript")
 ![alt text](https://img.shields.io/badge/Editor-Intellij%20IDEA-informational?style=flat&logo=intellij%20IDEA&logoColor=white&color=2bbc8a "Intellij")
@@ -6,8 +5,8 @@
 ![alt text](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=Gnu-Bash&logoColor=white&color=2bbc8a "Bash")
 ![alt text](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a "Docker")
 ![alt text](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2bbc8a "PostgreSQL")
-![alt text](https://img.shields.io/badge/Packet%20Manager-NPM-informational?style=flat&logo=&logoColor=white&color=2bbc8a "NPM")
-![alt text](https://img.shields.io/badge/PacketManager-Maven-informational?style=flat&logo=&logoColor=white&color=2bbc8a "Maven")
+![alt text](https://img.shields.io/badge/Packet%20Manager-npm-informational?style=flat&logo=&logoColor=white&color=2bbc8a "NPM")
+![alt text](https://img.shields.io/badge/Packet%20Manager-Maven-informational?style=flat&logo=&logoColor=white&color=2bbc8a "Maven")
 ![alt text](https://img.shields.io/badge/JS%20Framework-Angular-informational?style=flat&logo=Angular&logoColor=white&color=2bbc8a "Angular")
 ![alt text](https://img.shields.io/badge/Java%20Framework-Spring-informational?style=flat&logo=Spring&logoColor=white&color=2bbc8a "Spring")
 
@@ -18,6 +17,7 @@
 - 📝 Currently attending HTL-Wels, Upper Austria
 - 💻 Learning Web Development
 - 👨‍💻 Interrested in Cyber Security
+- 🎤 Allways up for a talk
 - 👨‍🦯  Reachable under klacklmaximilian@gmail.com
 
 ---
