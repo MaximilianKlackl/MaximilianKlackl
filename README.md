@@ -6,7 +6,6 @@
 ![alt text](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=498FB4 "Docker")
 ![alt text](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=498FB4 "PostgreSQL")
 ![alt text](https://img.shields.io/badge/Packet%20Manager-npm-informational?style=flat&logo=&logoColor=white&color=498FB4 "NPM")
-![alt text](https://img.shields.io/badge/Packet%20Manager-Maven-informational?style=flat&logo=&logoColor=white&color=498FB4 "Maven")
 ![alt text](https://img.shields.io/badge/JS%20Framework-Angular-informational?style=flat&logo=Angular&logoColor=white&color=498FB4 "Angular")
 ![alt text](https://img.shields.io/badge/Java%20Framework-Spring-informational?style=flat&logo=Spring&logoColor=white&color=498FB4 "Spring")
 
